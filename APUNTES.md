@@ -267,7 +267,9 @@ export class ListMiEntidadComponent implements OnInit {
 
 ##### list-miEntidad.component.html
 ```html
-<div class="mat-elevation-z8">
+<div class="container">
+
+  <h1 class="text-center"> List </h1>
 
   <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
 
