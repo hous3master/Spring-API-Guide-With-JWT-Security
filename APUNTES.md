@@ -271,7 +271,7 @@ export class ListMiEntidadComponent implements OnInit {
 
   <h1 class="text-center"> List </h1>
 
-  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+  <table mat-table [dataSource]="dataSource" class="col-10 mat-elevation-z8">
 
     <!-- id column -->
     <ng-container matColumnDef="idMiEntidad">
