@@ -40,7 +40,7 @@ Prompt | Respuesta
 
 #### Moment
 
-Agregar moment al miEntidad, mediante la consola `ng add moment`
+Agregar moment al miProyecto, mediante la consola `ng add moment`
 
 ### Bootstrap
 
@@ -53,9 +53,9 @@ Agregar a archivo `index.html`, antes de `</head>` tag.
 
 ## Enviroments
 
-En `nombremiEntidad` crear folder `enviroments`.
+En `miProyecto` crear folder `enviroments`.
 
-En `nombremiEntidad/enviroments` crear un archivo `enviroment.ts` con el siguiente contenido:
+En `miProyecto/enviroments` crear un archivo `enviroment.ts` con el siguiente contenido:
 
 ##### enviroment.ts
 ```typescript
@@ -72,7 +72,7 @@ En `nombremiEntidad/src/app` crear 3 folders:
 
 ## Modules
 
-Escribir en `mimiEntidad/src/app/app.module.ts`
+Escribir en `miProyecto/src/app/app.module.ts`
 
 ##### app.module.ts
 ```typescript
