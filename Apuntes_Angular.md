@@ -16,7 +16,7 @@ Permitir CORS en el controller de la entidad:
 
 ### Angular
 
-Escribir en la terminal `ng new nombremiEntidad`. Y usar la siguiente configuración:
+Escribir en la terminal `ng new miProyecto`. Y usar la siguiente configuración:
 
 Prompt | Respuesta
 ---|---
