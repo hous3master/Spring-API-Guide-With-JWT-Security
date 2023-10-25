@@ -23,7 +23,7 @@ Prompt | Respuesta
 `? Would you like to add Angular routing?` | Yes
 `? Which stylesheet format would you like to use?`  | CSS
 
-Alocar la terminal en el miEntidad con el comando `cd nombremiEntidad`
+Alocar la terminal en el miEntidad con el comando `cd miProyecto`
 
 ### Dependencies
 
