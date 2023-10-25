@@ -238,7 +238,7 @@ export class MiEntidadComponent {
 
 ##### list-miEntidad.component.ts
 ```typescript
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { MatTableDataSource } from '@angular/material/table';
 import { MatPaginator } from '@angular/material/paginator';
 import { MiEntidad } from 'src/app/models/miEntidad';
